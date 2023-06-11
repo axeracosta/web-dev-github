@@ -1,0 +1,29 @@
+
+body{
+    background-color: #002c55;
+    text-align: center;
+    margin: 50px;
+
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+
+}
+
+p{
+    color: aliceblue;
+    font-family: 'fira sans', sans-serif;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #f66403;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
